@@ -1,1 +1,16 @@
+## Fintech Transactions Analysis
+
+**Objective:**  
+Analyze transaction data to identify fraud patterns and revenue drivers.
+
+**Tools:**  
+- Excel (data cleaning & pivot tables)  
+- Power BI (interactive dashboard)
+
+**Key Insights:**  
+- Fraud rate higher on card-not-present transactions  
+- 20% of users generate 65% of revenue  
+
+**Business Impact:**  
+Improves fraud detection and pricing strategy.
 
